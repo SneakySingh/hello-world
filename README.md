@@ -21,7 +21,7 @@ Today I am practicing git basics. Why? Well that's the cost of working in suppor
 Wonder how I have been making update in this file on 25th of any month only. Hmmm. Something to ponder on. 
 
 
-#Date : 26-Aug-2020
+# Date : 26-Aug-2020
 
 Breaking the pattern.
 New pattern in making.
